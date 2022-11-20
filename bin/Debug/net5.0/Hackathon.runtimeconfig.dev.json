@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "G:\\Users\\Quantum\\.dotnet\\store\\|arch|\\|tfm|",
+      "G:\\Users\\Quantum\\.nuget\\packages"
+    ]
+  }
+}
